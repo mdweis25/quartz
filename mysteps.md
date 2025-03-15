@@ -11,3 +11,6 @@ npx quartz create
 
 3
 Added this file (mysteps.md)
+
+4
+Changed secondary color for dark mode
