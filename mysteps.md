@@ -14,3 +14,7 @@ Added this file (mysteps.md)
 
 4
 Changed secondary color for dark mode
+
+5
+Changed pageTitle to "Ultimus"
+
